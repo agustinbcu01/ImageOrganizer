@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ImageOrganizerDaemon": {
+      "commandName": "Project",
+      "commandLineArgs": "--Daemon:DaemonName=\"Cool Daemon\""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vs/ImageOrganizer4.0
+/src/business/obj
+/src/business/bin/Debug/netstandard2.0
+/src/DataBaseMigratior/bin/Debug/netcoreapp2.2
+/src/DataBaseMigratior/obj/Debug/netcoreapp2.2
+/src/DataBaseMigratior/obj
+/src/DBAbstractionLayer/obj
+/src/ImageOrganizer/bin/Debug
+/src/ImageOrganizer/obj
+/src/ImageOrganizerDaemon/bin/Debug/netcoreapp2.2
+/src/ImageOrganizerDaemon/obj
+/src/ImageOrganizerWeb.UI/bin/Debug/netcoreapp2.2
+/src/ImageOrganizerWeb.UI/obj
+/src/packages
